@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#344D62"/>
+  <!-- rounded triangle -->
+  <path d="M32 12 L54 50 Q55.5 53 52 53 L12 53 Q8.5 53 10 50 Z" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linejoin="round"/>
+  <!-- rising baseline -->
+  <path d="M15 49 L44 40" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- stems -->
+  <path d="M23 46 L23 33" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M31 44 L31 24" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M39 41 L39 35" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"/>
+  <!-- nodes -->
+  <circle cx="23" cy="31" r="3.1" fill="#344D62" stroke="#FFFFFF" stroke-width="2.2"/>
+  <circle cx="31" cy="22" r="3.3" fill="#22C3D6" stroke="#FFFFFF" stroke-width="2.2"/>
+  <circle cx="39" cy="33" r="3.1" fill="#344D62" stroke="#FFFFFF" stroke-width="2.2"/>
+</svg>
